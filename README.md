@@ -2,7 +2,7 @@
 The codes, pre-trained model, and used data will be available after the paper is published.
 ## We evaluated our proposed method on four publicly available benchmark datasets
 ### 3DMAD
-Erdogmus, N., Marcel, S.: Spoofing in 2d face recognition with 3d masks and anti-spoofing with kinect. In: 2013 IEEE sixth international conference on biometrics: theory, applications and systems (BTAS). 1-6(2013). https://10.1109/BTAS.2013.6712688
+Erdogmus, N., Marcel, S.: Spoofing in 2d face recognition with 3d masks and anti-spoofing with kinect. In: 2013 IEEE sixth international conference on biometrics: theory, applications and systems (BTAS). 1-6(2013). https://doi.org/10.1109/BTAS.2013.6712688
 ### CSMAD
 Bhattacharjee, S., Mohammadi, A., Marcel, S.: Spoofing deep face recognition with custom silicone masks. In: 2018 IEEE 9th international conference on biometrics theory, applications and systems (BTAS). 1-7(2018). https://doi.org/10.1109/BTAS.2018.8698550
 ### HKBU-Mars V1+
